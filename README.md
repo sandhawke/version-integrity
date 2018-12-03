@@ -64,7 +64,13 @@ Wmoo_BYA6hQdezkSWCLB1R-xZqvlYo5_wfmamwL11Sw=
 
 I've made a node.js implementation that works as a library or from the command line: [got-integrity](https://npmjs.org/package/got-integrity)
 
-If you've done an implementation you'd like listed here, let me know.
+If you have a recent node.js installed, you can try it without any other install like this:
+
+```
+$ npx got-integrity --check https://www.w3.org/People/Sandro/ping
+```
+
+Please let me know about other implementations.
 
 ## Details
 
